@@ -6,3 +6,4 @@ Hola soy Santiago Ortiz, esta es la presentacion para la actividad de aprendizaj
 # Video
 
 En el siguientre link podras encontrar el video explicativo
+https://drive.google.com/file/d/1YZrcIt1wbo6TOCX7WQjAbXbgqux1pv1I/view?usp=sharing
